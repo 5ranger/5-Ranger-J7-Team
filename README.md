@@ -132,9 +132,9 @@ Do not distribute internal documentation, operational plans, or unit resources w
 
 For questions regarding training materials or documentation updates, contact:
 
-**Training Command**
+**The J7 Team**
 **5 Ranger Regiment**
 
 ---
 
-### "Rangers Lead The Way"
+### "5 Ranger By all means"
