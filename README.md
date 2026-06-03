@@ -31,11 +31,11 @@ The purpose of this repository is to:
 │   └── 5RANGER Signals Training Guide.docx
 │
 │
-├── 📁 Advanced_Training
-│   ├── Land_Navigation.md
-│   ├── CQB.md
-│   ├── Reconnaissance.md
-│   └── Leadership.md
+├── 📁 Slates
+│   ├── 5RANGER Red Slate.docx
+│   ├── 5RANGER Blue Slate.docx
+│   ├── 5RANGER Red Slate (Example).docx
+│   └── 5RANGER Blue Slate (Example).docx
 │
 │   
 ├── 📁 WIP Cadres
