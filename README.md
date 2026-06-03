@@ -24,7 +24,7 @@ The purpose of this repository is to:
 📂 .
 │
 │
-├── 📁 Training
+├── 📁 Completed Cadres
 │   ├── 5RANGER IUTR Training Guide.docx
 │   ├── 5RANGER Basic Medical Training Guide.docx
 │   ├── 5RANGER Advanced Medical Training Guide.docx
@@ -39,7 +39,7 @@ The purpose of this repository is to:
 │
 │   
 ├── 📁 WIP Cadres
-│    ├── 5RANGER Pointman Training Guide (WIP).docx
+│    ├── 5RANGER AT Training Guide (WIP).docx
 │    ├── 5RANGER RAC Training Guide (WIP).docx
 │    └── 5RANGER MG Training Guide (WIP).docx
 │
